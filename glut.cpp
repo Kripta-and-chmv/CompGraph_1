@@ -103,7 +103,6 @@ void Mouse(int button, int state, int x, int y)
 
 	glutPostRedisplay();
 }
-
 ///////Μενώ
 void processColorMenu(int option)
 {
